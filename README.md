@@ -116,6 +116,13 @@ prose. A doc: `type: doc`.
 folder in nokko (File ▸ Open Workspace), or open it as a vault in Obsidian with the Tasks
 and Dataview plugins, or just read it.
 
+## Trademarks
+
+Obsidian is a trademark of Dynalist Inc. nokko is an independent app by Anemo Agency, not
+affiliated with or endorsed by Obsidian; it reads and writes plain Markdown files that
+Obsidian also opens. Obsidian Tasks and Dataview are community plugins by their own authors;
+this document describes their published conventions and adds nothing to them.
+
 ## Licence
 
 The sample files and this document are released under [CC0 1.0](LICENSE): use them, copy
